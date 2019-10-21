@@ -1,13 +1,13 @@
 {
   "user": [
     {
-      "id": 001,
+      "id": "001",
       "name": "Username"
     }
   ],
   "girls": [
     {
-      "id": 001,
+      "id": "001",
       "name": "Solène",
       "age": "25 ans",
       "location": "Paris, France",
@@ -20,12 +20,12 @@
       ],
       "description": "Solène n'a pas encore renseigné sa description",
       "zaps": [
-        002,
-        003
+        "002",
+        "003"
       ]
     },
     {
-      "id": 002,
+      "id": "002",
       "name": "Nana",
       "age": "18 ans",
       "location": "Paris, France",
@@ -42,11 +42,11 @@
       ],
       "description": "nana n'a pas encore renseigné sa description",
       "zaps": [
-        002
+        "002"
       ]
     },
     {
-      "id": 003,
+      "id": "003",
       "name": "chnatale111",
       "age": "23 ans",
       "location": "Paris 01, France",
@@ -57,12 +57,12 @@
       ],
       "description": "chnatale111 n'a pas encore renseigné sa description",
       "zaps": [
-        002,
-        003
+        "002",
+        "003"
       ]
     },
     {
-      "id": 004,
+      "id": "004",
       "name": "adelinette",
       "age": "23 ans",
       "location": "Montrouge, France",
@@ -72,12 +72,12 @@
       ],
       "description": "Je suis une personne affectueuse, romantique, gai, drôle et à certains moments sérieuse",
       "zaps": [
-        002,
-        003
+        "002",
+        "003"
       ]
     },
     {
-      "id": 005,
+      "id": "005",
       "name": "dorisse9",
       "age": "24 ans",
       "location": "Aubervilliers, France",
@@ -87,12 +87,12 @@
       ],
       "description": "à la recherche de quelqu'un qui aime parler et rire :)",
       "zaps": [
-        002,
-        003
+        "002",
+        "003"
       ]
     },
     {
-      "id": 006,
+      "id": "006",
       "name": "paullyne",
       "age": "26 ans",
       "location": "Maisons-Alfort, France",
@@ -102,12 +102,12 @@
       ],
       "description": "Mes amis disent de moi, que je suis un optimiste. Je suis une personne très heureuse et heureuse. J'espère trouver un compagnon ici ...",
       "zaps": [
-        002,
-        003
+        "002",
+        "003"
       ]
     },
     {
-      "id": 007,
+      "id": "007",
       "name": "saphira",
       "age": "26 ans",
       "location": "Courbevoie, France",
@@ -117,12 +117,12 @@
       ],
       "description": "Salut, vous cherchez du fun?",
       "zaps": [
-        001,
-        003
+        "001",
+        "003"
       ]
     },
     {
-      "id": 008,
+      "id": "008",
       "name": "cindylol20",
       "age": "26 ans",
       "location": "Asnières-sur-Seine, France",
@@ -136,8 +136,8 @@
       ],
       "description": "Salut, vous cherchez du fun?",
       "zaps": [
-        002,
-        003
+        "002",
+        "003"
       ]
     }
   ]
