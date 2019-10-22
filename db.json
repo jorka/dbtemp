@@ -1,8 +1,9 @@
 {
   "user": [
     {
-      "id": "001",
-      "name": "Username"
+      "id": "000",
+      "name": "Username",
+      "zaps": []
     }
   ],
   "girls": [
