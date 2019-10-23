@@ -1,12 +1,5 @@
 {
-  "user": [
-    {
-      "id": "000",
-      "name": "Username",
-      "zaps": []
-    }
-  ],
-  "girls": [
+  "users": [
     {
       "id": "001",
       "name": "Solène",
